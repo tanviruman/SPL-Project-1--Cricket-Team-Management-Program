@@ -1,4 +1,4 @@
-# Cricket Team Management Program Documentation
+# Cricket Team Management Program 
 
 ## Introduction
 This document provides a detailed explanation of the code that implements a cricket team management program in C. The program reads data about cricket players from a file, stores it in a structure, and allows the user to perform various operations such as displaying player information, identifying top performers, and more.
